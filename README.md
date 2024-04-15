@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Digital-Dreamz
+- 👋 Hi, I’m @Nwaodo-Malachy
 - 👀 I’m interested in exploring the latest trends and techniques in web development, especially in the field of front-end engineering.
 - 🌱 I'm currently learning more about HTML,CSS, JavaScript and accessibility best practices.
 - 💞️ I’m looking to collaborate on open-source projects that promote inclusion, diversity, and user-centered design.
